@@ -20,7 +20,7 @@ home = [ "HTML", "RSS", "JSON"]
   # Author of the site, will be used in meta information
   author = "OpenTechSchool"
   # Description of the site, will be used in meta information
-  description = ""
+  description = "Content for OpenTechSchool's data science meetup"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar
