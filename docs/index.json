@@ -1,14 +1,14 @@
 [
 {
-	"uri": "https://opentechschool.github.io/datascience/categories/",
-	"title": "Categories",
+	"uri": "https://opentechschool.github.io/datascience/",
+	"title": "",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " Data Science "
 },
 {
-	"uri": "https://opentechschool.github.io/datascience/",
-	"title": "My New Hugo Site",
+	"uri": "https://opentechschool.github.io/datascience/categories/",
+	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
