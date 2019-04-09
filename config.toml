@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "http://example.org/"
+baseURL = "https://opentechschool.github.io/datascience/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
