@@ -5,7 +5,7 @@ data science content will live. There isn't much here yet, but we do have a few
 things planned, including tutorials and projects that can be used by individuals
 and co-learning groups.
 
-But wait! "hat is this thing we call *data science*?
+But wait! What is this thing we call *data science*?
 
 > Data science is a multi-disciplinary field that uses scientific methods,
 > processes, algorithms and systems to extract knowledge and insights from
