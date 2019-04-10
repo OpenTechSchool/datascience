@@ -44,6 +44,5 @@ Much data science is done using Jupyter Notebooks or R Markdown. Both these
 instances of [literate programming](https://en.wikipedia.org/wiki/Literate_programming)
 can be easily converted into either Markdown or HTML.
 
-<div style="background-color:yellow">*(Note from Gershom: I'm still working out
-the optimal way to do this. It's probably best to create new post with Hugo, convert
-.ipynb/.rmd to .md, transfer the YAML/TOML header, then replace original post.)*</div>
+*(Note from Gershom: I'm still working out the optimal way to do this. It's probably best to create new post with Hugo, 
+convert .ipynb/.rmd to .md, transfer the YAML/TOML header, then replace original post.)*
