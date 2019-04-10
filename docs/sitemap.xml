@@ -3,7 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/learn_r/</loc>
+    <lastmod>2019-04-10T02:47:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/learn_python/</loc>
+    <lastmod>2019-04-10T02:47:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/math_stats/</loc>
+    <lastmod>2019-04-10T03:00:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/machine_learning/</loc>
+    <lastmod>2019-04-10T03:00:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/</loc>
+    <lastmod>2019-04-10T03:00:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/datasets/</loc>
+    <lastmod>2019-04-10T02:47:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/competitions/</loc>
+    <lastmod>2019-04-10T02:50:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/people/</loc>
+    <lastmod>2019-04-10T02:47:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/news/</loc>
+    <lastmod>2019-04-10T02:55:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opentechschool.github.io/datascience/</loc>
+    <lastmod>2019-04-10T03:00:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   

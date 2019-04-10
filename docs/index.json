@@ -1,10 +1,73 @@
 [
 {
+	"uri": "https://opentechschool.github.io/datascience/external_resources/learn_r/",
+	"title": "Learn R",
+	"tags": [],
+	"description": "",
+	"content": " Swirl: Swirl is an R package that allows you to learn R interactively in the R console.\n Introduction to R from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you\u0026rsquo;re interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.\n DataCamp Community Tutorials: Lots of tutorials, many user-created. Lots of R, but also Python, SQL, Git, stats, etc.\n R for Data Science from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You\u0026rsquo;ll learn the \u0026ldquo;tidy\u0026rdquo; approach to data, and immediately use libraries such as dplyr, tidyr, and ggplot2. Some basic knowledge of R can be helpful, but isn\u0026rsquo;t absolutely necessary (DataCamp\u0026rsquo;s intro is more than enough). It\u0026rsquo;s also available as a book.\n Advanced R from Hadley Wickham: A companion website to the book of the same name, it introduces more advanced features (and quirks) of the R language, e.g. style, exception handling, functional programming, R\u0026rsquo;s C interface, etc.\n Data Science Specialization: A comprehensive, challenging, 10-part course from Johns Hopkins University \u0026amp; Coursera. Covers R, the data science workflow, stats, and some machine learning.\n R Tutorial: A basic intro to R and stats from the University of Georgia, Department of Mathematics.\n Sharp Sight Labs: A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.\n The Analytics Edge: Semester-long course from MIT \u0026amp; edX. Covers stats/DS using real-world examples.\n Quick-R: A website dedicated to helping individuals with some background in statistics transition to R.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/learn_python/",
+	"title": "Learn Python",
+	"tags": [],
+	"description": "",
+	"content": " Introduction to Programming with Python from OTS: Perfect for anyone with limited exposure to programming. Covers everything you need to get started with Python. Available in English, German, Spanish, Russian, Korean, and Romanian.\n Automate the Boring Stuff with Python: Teaches Python as a means to get things done. Free if you use the website, also available as a book and a Udemy course.\n Python Course: Probably one of the most comprehensive free tutorials available, it covers everything from \u0026ldquo;Hello World\u0026rdquo; to advanced OOP. Klein also offers quite a bit beyond the core material, e.g. Advanced Topics, Numerical Python, Machine Learning, and Tkinter Tutorial. All the material is offered in English and German.\n DataCamp Community Tutorials: Lots of tutorials, many user-created. Lots of Python, but also R, SQL, Git, stats, etc.\n Introduction to Data Processing with Python from OTS: A work in progress, our own tutorial builds on the foundations of Introduction to Programming with Python. You\u0026rsquo;ll learn how to install and use Jupyter notebooks, load data, analyze a survey, and visualize your data. We\u0026rsquo;ve got quite a bit in the pipeline, so be sure to check back soon.\n Pandas Tutorial: This tutorial consists of a series of Jupyter Notebooks introducing the fundamentals of the Pandas module. The notebooks can be freely downloaded. The Pandas tutorial, as well as tutorials on a number of other data science related topics, are also available as email courses.\n StatsModels Tutorial: Repo of Jupyter Notebooks dealing with the StatsModels module. The material is a little old and not very well organized, but there are still a few gems there for anyone doing statistics in Python.\n SciPy Lecture Notes: A brief (1-2 hours per module) introduction to the tools and techniques of Python\u0026rsquo;s SciPy module.\n CS109 Data Science: A very comprehensive, very challenging course from Harvard\u0026rsquo;s School of Engineering and Applied Sciences. Uses Python.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/math_stats/",
+	"title": "Math and Statistics",
+	"tags": [],
+	"description": "",
+	"content": " Statistics with R Specialization: A popular, semester-long statistics course from from Duke University \u0026amp; Coursera. Focus is on stats with programming assignments in R. That said, it is possible to make it through the course without knowing much about R. Topics: inference, correlation, regression, Bayesian statistics.\n Computational Linear Algebra for Coders: From the good people at fast.ai.\n Linear Algebra - Foundations to Frontiers: A popular, semester-long course from the University of Texas at Austin and edX. Challenging, but doesn\u0026rsquo;t assume too much math experience. Programming exercises require Matlab, but it\u0026rsquo;s possible to finish the course with R, Python, etc.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/machine_learning/",
+	"title": "Machine Learning",
+	"tags": [],
+	"description": "",
+	"content": " Tutorials, R and Python  Intro to Machine Learning (Py): An excellent introduction to applied ML from Udacity. The course focuses on the ML library scikit-learn. Part of Udacity\u0026rsquo;s Data Analyst Nanodegree, it takes an estimated 10 weeks to complete.\n Machine Learning (Py): A popular introduction to the theory behind common ML algorithms, from Coursera founder and Stanford professor Andrew Ng. It takes an estimated 11 weeks to complete. A certificate is available for Coursera subscribers, but the material is free for everyone. Use of Octave/Matlab in only required when pursuing a certificate.\n Chris Albon\u0026rsquo;s personal website - Lots of short tutorials. Mostly ML, but also web scraping, regular expressions, visualization, etc. Chris has also written a book.\n Deep Learning: An online version of the popular deep learning textbook.\n Natural Language Processing with Python: Free online version of the popular NLP book. Uses NLTK. Updated for Python 3.\n Kaggle Titanic Tutorial \u0026reg;: A tutorial aimed at Kaggle\u0026rsquo;s Titanic: Machine Learning from Disaster. Begins with some basics, then moves on to decision trees, feature engineering, and random forests.\n Kaggle Titanic Tutorial (Py): Machine learning with scikit-learn and tensorflow\n Machine Learning Mastery from Jason Brownlee (R/Python): Includes lots of self-study tutorials covering beginner to advanced topics in machine learning and statistics. Brownlee also offers some ebooks for $37-47, in case you\u0026rsquo;re looking for more depth and/or structure.\n fast.ai: A website dedicated to making the power of deep learning accessible to all.\n  Toolkits  Scikit-Learn (Py): Simple and efficient tools for data mining and data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable - BSD license.\n Keras (Py): A Python deep learning library. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation.\n TensorFlow (Py): An open source machine learning framework.\n PyTorch (Py): A deep learning framework for fast, flexible experimentation.\n Natural Language Toolkit (Py): NLTK is a leading platform for building Python programs to work with human language data.\n caret \u0026reg;: The caret package (short for _C_lassification _A_nd _RE_gression _T_raining) is a set of functions that attempt to streamline the process for creating predictive models.\n class \u0026reg;: Various functions for classification, including k-nearest neighbour, Learning Vector Quantization and Self-Organizing Maps.\n stats \u0026reg;: Offers a number of functions for supervised and unsupervised learning.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/",
+	"title": "External Resources",
+	"tags": [],
+	"description": "",
+	"content": " External Resources We\u0026rsquo;ve gathered some learning resources here that we\u0026rsquo;ve found useful in the past.\n"
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/datasets/",
+	"title": "Datasets",
+	"tags": [],
+	"description": "",
+	"content": " UCI Machine Learning Repository: More than 400 ML datasets.\n Kaggle: More than 8,000 datasets of varying quality covering numerous topics.\n Rdatasets: A collection of 1161 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. Curated by Vincent Arel-Bundock.\n Awesome Public Datasets: A VERY large list of tidied, public data sets. Most of the datasets are free, some are not.\n IMDb Datasets: Lots and lots of movie data from IMDb.\n Gun Violence Database: A crowdsourced database of gun violence incidents in the US.\n UN Data: Data from diverse UN sub-organizations.\n Eurostat: EU data and statistics.\n Gapminder: An independent Swedish foundation dedicated to fighting misconceptions about global development, Gapminder offers datasets related to various development indicators.\n Open Source Psychometrics Project: A website providing a collection of interactive personality tests with detailed results that can be taken for personal entertainment or to learn more about personality assessment. The tests range from very serious to not so much. Special focus is given to the strengths, weaknesses and validity of the various systems.\n OpenStreetMap: Collaborative project to create a free editable map of the world. Geographic data can be downloaded as XML files.\n The Standford Open Policing Project: Standardized data on interactions between police and public, e.g. vehicle and pedestrian stops, from law enforcement departments across the USA.\n Our World in Data: Online publication giving overview of global living conditions. Topics covered: health, food provision, the growth and distribution of incomes, violence, rights, wars, culture, energy use, education, and environmental changes. Charts generally include option to download data.\n Open Food Facts: Collaborative database of food products from around the world.\n Climate Data Online: Global climate data from the National Climatic Data Center, U.S. Department of Commerce.\n Data Sets: From the book Applied Regression Analysis and Generalized Linear Models.\n United States Census Bureau: Demographic data from the USA.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/competitions/",
+	"title": "Competitions",
+	"tags": [],
+	"description": "",
+	"content": " DrivenData: Data science competitions geared towards social causes, including health, education, and development.\n Kaggle: A popular data science competition platform.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/people/",
+	"title": "People",
+	"tags": [],
+	"description": "",
+	"content": " Dr. Rachael Tatman (R/Py): Data Scientist @kaggle \u0026amp; Linguistics PhD. Data science, stats, R, Python, NLP and linguistics. Live coding data science on twitch and other interactive projects.\n Mara Averick (R): tidyverse dev advocate @rstudio #rstats, #datanerd, #civictech 💖er, 🏀 stats junkie, using #data4good (\u0026amp;or 🥇 fantasy sports), lesser ½ of @batpigandme 🦇🐽\n Julia Silge (R): Data science and visualization at @StackOverflow, #rstats, author of Text Mining with R, parenthood.\n Maëlle Salmon (R): PhD in statistics. 💙#rstats. Living the FOSS dream working for @rOpenSci \u0026amp; @LockeData. Onboarding co-editor at @rOpenSci. #rladies. Member of @rweekly_org team.\n Hadley Wickham (R): R, data, visualisation. Creator of, and contributor to, numerous R libraries.\n David Robinson (R): Chief Data Scientist at @DataCamp, #rstats fan/evangelist.\n Jake VanderPlas (Py): Data scientist in academia \u0026amp; exploring what that means with a great team at @UWeScience. Visiting researcher at @Google; dad to two girls; author of @pydatasci.\n Wes McKinney (Py): Data science toolmaker at https://ursalabs.org/ . Creator of pandas, @IbisData. @ApacheArrow @ApacheParquet PMC. Wrote Python for Data Analysis.\n Allen Downey (Py): Professor at Olin College, author of Think Python, blauthor of Probably Overthinking It, and stark raving Bayesian.\n Hugo-Bowne (Py): Data scientist, writer, mathematician, educator. Does all of these @DataCamp.\n Julia Evans: Julia writes about lots of stuff. Check out her blog.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/external_resources/news/",
+	"title": "News",
+	"tags": [],
+	"description": "",
+	"content": " Analytics Vidhya: A comprehensive data science website providing resources for pretty much everything related to data science/analysis. Their ambitious blurb: Learn everything about analytics.\n KDnuggets: A website covering everything DS and ML related.\n Data Machina: A weekly digest of data science curiosities, machine intelligence, data geekery, and other amenities.\n Revolution Analytics \u0026reg;: Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.\n Becoming a Data Scientist: A website covering DS-related topics beyond just methods. Also offers useful information on career development.\n Data Science Berlin: A collection of information related to DS in Berlin and Germany.\n  "
+},
+{
 	"uri": "https://opentechschool.github.io/datascience/",
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": " Data Science  "
+	"content": " Data Science Co-learning What is Data Science?  Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. - Wikipedia\n "
 },
 {
 	"uri": "https://opentechschool.github.io/datascience/categories/",

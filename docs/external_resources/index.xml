@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OTS-DS</title>
-    <link>https://opentechschool.github.io/datascience/</link>
-    <description>Recent content on OTS-DS</description>
+    <title>External Resources on OTS-DS</title>
+    <link>https://opentechschool.github.io/datascience/external_resources/</link>
+    <description>Recent content in External Resources on OTS-DS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 03:00:44 +0200</lastBuildDate>
     
-	<atom:link href="https://opentechschool.github.io/datascience/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://opentechschool.github.io/datascience/external_resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
