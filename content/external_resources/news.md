@@ -11,7 +11,7 @@ draft: false
 
 * [Data Machina](https://www.getrevue.co/profile/datamachina?utm_campaign=Issue&utm_content=topprofilename&utm_medium=email&utm_source=Data+Machina): A weekly digest of data science curiosities, machine intelligence, data geekery, and other amenities.
 
-* [Revolution Analytics](http://blog.revolutionanalytics.com/) _(R)_: Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.
+* [Revolution Analytics](http://blog.revolutionanalytics.com/) _\(R\)_: Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.
 
 * [Becoming a Data Scientist](http://www.becomingadatascientist.com/): A website covering DS-related topics beyond just methods. Also offers useful information on career development.
 

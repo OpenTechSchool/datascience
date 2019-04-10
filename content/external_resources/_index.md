@@ -8,4 +8,6 @@ pre = ""
 
 # External Resources
 
-We've gathered some learning resources here that we've found useful in the past. 
+We've gathered some learning resources here that we've found useful in the past.
+Choose an item in the sidebar or use the navigation buttons to walk through
+everything. 

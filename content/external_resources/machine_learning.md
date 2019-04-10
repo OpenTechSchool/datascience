@@ -16,7 +16,7 @@ draft: false
 
 * [Natural Language Processing with Python](https://www.nltk.org/book/): Free online version of the popular NLP book. Uses NLTK. Updated for Python 3.
 
-* [Kaggle Titanic Tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) _(R)_: A tutorial aimed at Kaggle's [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic). Begins with some basics, then moves on to decision trees, feature engineering, and random forests.
+* [Kaggle Titanic Tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) _\(R\)_: A tutorial aimed at Kaggle's [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic). Begins with some basics, then moves on to decision trees, feature engineering, and random forests.
 
 * [Kaggle Titanic Tutorial](https://blog.socialcops.com/engineering/machine-learning-python/) _(Py)_: Machine learning with scikit-learn and tensorflow
 
@@ -39,8 +39,8 @@ draft: false
 * [Natural Language Toolkit](https://www.nltk.org/) _(Py)_: NLTK is a leading platform for building Python programs to work with human language data.
 
 
-* [caret](http://topepo.github.io/caret/index.html) _(R)_: The caret package (short for _C_lassification _A_nd _RE_gression _T_raining) is a set of functions that attempt to streamline the process for creating predictive models.
+* [caret](http://topepo.github.io/caret/index.html) _\(R\)_: The caret package (short for _C_lassification _A_nd _RE_gression _T_raining) is a set of functions that attempt to streamline the process for creating predictive models.
 
-* [class](https://www.rdocumentation.org/packages/class/versions/7.3-14) _(R)_: Various functions for classification, including k-nearest neighbour, Learning Vector Quantization and Self-Organizing Maps.
+* [class](https://www.rdocumentation.org/packages/class/versions/7.3-14) _\(R\)_: Various functions for classification, including k-nearest neighbour, Learning Vector Quantization and Self-Organizing Maps.
 
-* [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html) _(R)_: Offers a number of functions for supervised and unsupervised learning.
+* [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html) _\(R\)_: Offers a number of functions for supervised and unsupervised learning.
