@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on OTS-DS</title>
+    <link>https://opentechschool.github.io/datascience/contact/</link>
+    <description>Recent content in Contact on OTS-DS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 13:35:02 +0200</lastBuildDate>
+    
+	<atom:link href="https://opentechschool.github.io/datascience/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Berlin</title>
+      <link>https://opentechschool.github.io/datascience/contact/berlin/</link>
+      <pubDate>Fri, 12 Apr 2019 13:35:02 +0200</pubDate>
+      
+      <guid>https://opentechschool.github.io/datascience/contact/berlin/</guid>
+      <description>Nordenfan, Berlin Panorama Mitte, CC BY-SA 4.0
+OpenTechSchool&amp;rsquo;s data science meetup in Berlin, Germany, takes place every two weeks in co.up, a community event space in Kreuzberg. Take a look at OpenTechSchool&amp;rsquo;s upcoming events on meetup.com to find our next co-learning event, and register so we know how many people to expect.
+U-Bahnhof Kottbusser Tor is the closest subway station. Use the map below to find us.
+
+ </description>
+    </item>
+    
+  </channel>
+</rss>

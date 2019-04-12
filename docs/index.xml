@@ -6,7 +6,7 @@
     <description>Recent content on OTS-DS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2019 03:00:44 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2019 13:35:02 +0200</lastBuildDate>
     
 	<atom:link href="https://opentechschool.github.io/datascience/index.xml" rel="self" type="application/rss+xml" />
     
@@ -97,6 +97,19 @@
  KDnuggets: A website covering everything DS and ML related.
  Data Machina: A weekly digest of data science curiosities, machine intelligence, data geekery, and other amenities.
  Revolution Analytics (R): Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.</description>
+    </item>
+    
+    <item>
+      <title>Berlin</title>
+      <link>https://opentechschool.github.io/datascience/contact/berlin/</link>
+      <pubDate>Fri, 12 Apr 2019 13:35:02 +0200</pubDate>
+      
+      <guid>https://opentechschool.github.io/datascience/contact/berlin/</guid>
+      <description>Nordenfan, Berlin Panorama Mitte, CC BY-SA 4.0
+OpenTechSchool&amp;rsquo;s data science meetup in Berlin, Germany, takes place every two weeks in co.up, a community event space in Kreuzberg. Take a look at OpenTechSchool&amp;rsquo;s upcoming events on meetup.com to find our next co-learning event, and register so we know how many people to expect.
+U-Bahnhof Kottbusser Tor is the closest subway station. Use the map below to find us.
+
+ </description>
     </item>
     
   </channel>

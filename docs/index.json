@@ -1,10 +1,24 @@
 [
 {
+	"uri": "https://opentechschool.github.io/datascience/external_resources/",
+	"title": "External Resources",
+	"tags": [],
+	"description": "",
+	"content": " External Resources We\u0026rsquo;ve gathered some learning resources here that we\u0026rsquo;ve found useful in the past. Choose an item in the sidebar or use the navigation buttons to walk through everything.\n"
+},
+{
 	"uri": "https://opentechschool.github.io/datascience/external_resources/learn_r/",
 	"title": "Learn R",
 	"tags": [],
 	"description": "",
 	"content": " Swirl: Swirl is an R package that allows you to learn R interactively in the R console.\n Introduction to R from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you\u0026rsquo;re interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.\n DataCamp Community Tutorials: Lots of tutorials, many user-created. Lots of R, but also Python, SQL, Git, stats, etc.\n R for Data Science from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You\u0026rsquo;ll learn the \u0026ldquo;tidy\u0026rdquo; approach to data, and immediately use libraries such as dplyr, tidyr, and ggplot2. Some basic knowledge of R can be helpful, but isn\u0026rsquo;t absolutely necessary (DataCamp\u0026rsquo;s intro is more than enough). It\u0026rsquo;s also available as a book.\n Advanced R from Hadley Wickham: A companion website to the book of the same name, it introduces more advanced features (and quirks) of the R language, e.g. style, exception handling, functional programming, R\u0026rsquo;s C interface, etc.\n Data Science Specialization: A comprehensive, challenging, 10-part course from Johns Hopkins University \u0026amp; Coursera. Covers R, the data science workflow, stats, and some machine learning.\n R Tutorial: A basic intro to R and stats from the University of Georgia, Department of Mathematics.\n Sharp Sight Labs: A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.\n The Analytics Edge: Semester-long course from MIT \u0026amp; edX. Covers stats/DS using real-world examples.\n Quick-R: A website dedicated to helping individuals with some background in statistics transition to R.\n  "
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/contact/",
+	"title": "Contact",
+	"tags": [],
+	"description": "",
+	"content": " Contact OpenTechSchool originates in Berlin but is a global community. Find your local data science meetup in the sidebar menu to the left.\n"
 },
 {
 	"uri": "https://opentechschool.github.io/datascience/external_resources/learn_python/",
@@ -26,13 +40,6 @@
 	"tags": [],
 	"description": "",
 	"content": " Tutorials, R and Python  Intro to Machine Learning (Py): An excellent introduction to applied ML from Udacity. The course focuses on the ML library scikit-learn. Part of Udacity\u0026rsquo;s Data Analyst Nanodegree, it takes an estimated 10 weeks to complete.\n Machine Learning (Py): A popular introduction to the theory behind common ML algorithms, from Coursera founder and Stanford professor Andrew Ng. It takes an estimated 11 weeks to complete. A certificate is available for Coursera subscribers, but the material is free for everyone. Use of Octave/Matlab in only required when pursuing a certificate.\n Chris Albon\u0026rsquo;s personal website - Lots of short tutorials. Mostly ML, but also web scraping, regular expressions, visualization, etc. Chris has also written a book.\n Deep Learning: An online version of the popular deep learning textbook.\n Natural Language Processing with Python: Free online version of the popular NLP book. Uses NLTK. Updated for Python 3.\n Kaggle Titanic Tutorial (R): A tutorial aimed at Kaggle\u0026rsquo;s Titanic: Machine Learning from Disaster. Begins with some basics, then moves on to decision trees, feature engineering, and random forests.\n Kaggle Titanic Tutorial (Py): Machine learning with scikit-learn and tensorflow\n Machine Learning Mastery from Jason Brownlee (R/Python): Includes lots of self-study tutorials covering beginner to advanced topics in machine learning and statistics. Brownlee also offers some ebooks for $37-47, in case you\u0026rsquo;re looking for more depth and/or structure.\n fast.ai: A website dedicated to making the power of deep learning accessible to all.\n  Toolkits  Scikit-Learn (Py): Simple and efficient tools for data mining and data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable - BSD license.\n Keras (Py): A Python deep learning library. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation.\n TensorFlow (Py): An open source machine learning framework.\n PyTorch (Py): A deep learning framework for fast, flexible experimentation.\n Natural Language Toolkit (Py): NLTK is a leading platform for building Python programs to work with human language data.\n caret (R): The caret package (short for _C_lassification _A_nd _RE_gression _T_raining) is a set of functions that attempt to streamline the process for creating predictive models.\n class (R): Various functions for classification, including k-nearest neighbour, Learning Vector Quantization and Self-Organizing Maps.\n stats (R): Offers a number of functions for supervised and unsupervised learning.\n  "
-},
-{
-	"uri": "https://opentechschool.github.io/datascience/external_resources/",
-	"title": "External Resources",
-	"tags": [],
-	"description": "",
-	"content": " External Resources We\u0026rsquo;ve gathered some learning resources here that we\u0026rsquo;ve found useful in the past. Choose an item in the sidebar or use the navigation buttons to walk through everything.\n"
 },
 {
 	"uri": "https://opentechschool.github.io/datascience/external_resources/datasets/",
@@ -68,6 +75,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Data Science Hello and welcome! You\u0026rsquo;ve found the website where OpenTechSchool\u0026rsquo;s data science content will live. There isn\u0026rsquo;t much here yet, but we do have a few things planned, including tutorials and projects that can be used by individuals and co-learning groups.\nBut wait! What is this thing we call data science?\n Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. - Wikipedia\n There is a bit of debate about what data science is, and what it isn\u0026rsquo;t, but for our purposes this wonderfully vague Wikipedia definition is good enough. Data science takes on many different forms, but ultimately it is about drawing insights from data and, critically, communicating these insights in such a way that your intended audience understands them.\nTo that end, our goal is to provide a sort of road map to a to a career in data science, which we plan to do by recommending good free resources (there are lots of them), and filling the gaps as needed. To tide you over until then we\u0026rsquo;ve scraped together some learning resources, and other content, that we\u0026rsquo;ve found useful in the past. Just click External Resources in the sidebar.\nMake sure to check out OpenTechSchool\u0026rsquo;s main page, where you can see who we are and what we do. You can also use the locator to find co-learnings in you area, including data science co-learning opportunities. Co-learning groups can also found on meetup.com.\nIf you\u0026rsquo;re interested in becoming an organizer or coach for an existing co-learning, or if you want to set up a new co-learning or workshop, the best way is to first say hi at one of the meetups, or to contact us using one of the options on the main page. If you want to contribute data science related tutorials or other content and you know you\u0026rsquo;re way around Github, markdown, etc., the repo for this website can be found here.\nSee you soon!\n"
+},
+{
+	"uri": "https://opentechschool.github.io/datascience/contact/berlin/",
+	"title": "Berlin",
+	"tags": [],
+	"description": "",
+	"content": "Nordenfan, Berlin Panorama Mitte, CC BY-SA 4.0\nOpenTechSchool\u0026rsquo;s data science meetup in Berlin, Germany, takes place every two weeks in co.up, a community event space in Kreuzberg. Take a look at OpenTechSchool\u0026rsquo;s upcoming events on meetup.com to find our next co-learning event, and register so we know how many people to expect.\nU-Bahnhof Kottbusser Tor is the closest subway station. Use the map below to find us.\n\n "
 },
 {
 	"uri": "https://opentechschool.github.io/datascience/categories/",

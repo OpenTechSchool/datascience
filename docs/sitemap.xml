@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://opentechschool.github.io/datascience/external_resources/</loc>
+    <lastmod>2019-04-10T03:00:44+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opentechschool.github.io/datascience/external_resources/learn_r/</loc>
     <lastmod>2019-04-10T02:47:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/contact/</loc>
+    <lastmod>2019-04-12T13:35:02+02:00</lastmod>
   </url>
   
   <url>
@@ -20,11 +30,6 @@
   <url>
     <loc>https://opentechschool.github.io/datascience/external_resources/machine_learning/</loc>
     <lastmod>2019-04-10T03:00:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://opentechschool.github.io/datascience/external_resources/</loc>
-    <lastmod>2019-04-10T03:00:44+02:00</lastmod>
   </url>
   
   <url>
@@ -49,8 +54,13 @@
   
   <url>
     <loc>https://opentechschool.github.io/datascience/</loc>
-    <lastmod>2019-04-10T03:00:44+02:00</lastmod>
+    <lastmod>2019-04-12T13:35:02+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://opentechschool.github.io/datascience/contact/berlin/</loc>
+    <lastmod>2019-04-12T13:35:02+02:00</lastmod>
   </url>
   
   <url>

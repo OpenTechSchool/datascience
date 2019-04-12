@@ -101,6 +101,12 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
-iframe {
-  width: 100%;
+/* Add custom CSS here that wasn't part of original config, i.e. anything
+you come up with yourself.*/
+
+/*Put image captions in a div with following class.*/
+.img_caption {
+  margin-top: -3rem;
+  margin-bottom: 3rem;
+  font-style: italic;
 }
