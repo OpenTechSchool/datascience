@@ -2,8 +2,7 @@
 
 Hello and welcome! You've found the website where [OpenTechSchool](http://www.opentechschool.org/)'s
 data science content will live. There isn't much here yet, but we do have a few
-things planned, including tutorials and projects that can be used by individuals
-and co-learning groups.
+things planned, including tutorials and projects that can be used by individuals and co-learning groups. Checkout [Contact](/datascience/contact) in the sidebar to see if there's an OTS data science co-learning group in your city.
 
 But wait! What is this thing we call *data science*?
 
