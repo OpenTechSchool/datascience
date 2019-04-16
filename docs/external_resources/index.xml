@@ -18,7 +18,7 @@
       
       <guid>https://opentechschool.github.io/datascience/external_resources/learn_r/</guid>
       <description>Swirl: Swirl is an R package that allows you to learn R interactively in the R console.
- Introduction to R from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you&amp;rsquo;re interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.</description>
+ R for Data Science from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You&amp;rsquo;ll learn the &amp;ldquo;tidy&amp;rdquo; approach to data, and immediately use libraries such as dplyr, tidyr, and ggplot2.</description>
     </item>
     
     <item>
