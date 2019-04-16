@@ -11,8 +11,6 @@ draft: false
 
 * [Python Course](https://www.python-course.eu/python3_course.php): Probably one of the most comprehensive free tutorials available, it covers everything from "Hello World" to advanced OOP. Klein also offers quite a bit beyond the core material, e.g. _Advanced Topics_, _Numerical Python_, _Machine Learning_, and _Tkinter Tutorial_. All the material is offered in English and German.
 
-* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): Lots of tutorials, many user-created. Lots of Python, but also R, SQL, Git, stats, etc.
-
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) from OTS: A work in progress, our own tutorial builds on the foundations of [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/). You'll learn how to install and use Jupyter notebooks, load data, analyze a survey, and visualize your data. We've got quite a bit in the pipeline, so be sure to check back soon.
 
 * [Pandas Tutorial](https://bitbucket.org/hrojas/learn-pandas): This tutorial consists of a series of Jupyter Notebooks introducing the fundamentals of the Pandas module. The notebooks can be freely downloaded. The Pandas tutorial, as well as tutorials on a number of other data science related topics, are also available as [email courses](http://www.hedaro.com/).

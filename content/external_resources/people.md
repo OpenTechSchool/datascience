@@ -15,7 +15,7 @@ draft: false
 
 * [Hadley Wickham](https://twitter.com/hadleywickham) _\(R\)_: R, data, visualisation. Creator of, and contributor to, numerous R libraries.
 
-* [David Robinson](https://twitter.com/drob) _\(R\)_: Chief Data Scientist at @DataCamp, #rstats fan/evangelist.
+* [David Robinson](https://twitter.com/drob) _\(R\)_: <http://varianceexplained.org/>
 
 * [Jake VanderPlas](https://twitter.com/jakevdp) _(Py)_: Data scientist in academia & exploring what that means with a great team at @UWeScience. Visiting researcher at @Google; dad to two girls; author of @pydatasci.
 
@@ -23,6 +23,6 @@ draft: false
 
 * [Allen Downey](https://twitter.com/AllenDowney) _(Py)_: Professor at Olin College, author of Think Python, blauthor of Probably Overthinking It, and stark raving Bayesian.
 
-* [Hugo-Bowne](https://twitter.com/hugobowne) _(Py)_: Data scientist, writer, mathematician, educator. Does all of these @DataCamp.
+* [Hugo-Bowne](https://twitter.com/hugobowne) _(Py)_: Data scientist, writer, mathematician, educator.
 
 * [Julia Evans](https://twitter.com/b0rk): Julia writes about lots of stuff. Check out her [blog](https://jvns.ca/).

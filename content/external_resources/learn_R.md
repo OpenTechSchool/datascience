@@ -7,11 +7,7 @@ draft: false
 
 * [Swirl](https://swirlstats.com/): Swirl is an R package that allows you to learn R interactively in the R console.  
 
-* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you're interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.
-
-* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): Lots of tutorials, many user-created. Lots of R, but also Python, SQL, Git, stats, etc.
-
-* [R for Data Science](http://r4ds.had.co.nz/) from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You'll learn the "tidy" approach to data, and immediately use libraries such as `dplyr`, `tidyr`, and `ggplot2`. Some basic knowledge of R can be helpful, but isn't absolutely necessary (DataCamp's intro is more than enough). It's also available as a book.
+* [R for Data Science](http://r4ds.had.co.nz/) from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You'll learn the "tidy" approach to data, and immediately use libraries such as `dplyr`, `tidyr`, and `ggplot2`. Some basic knowledge of R can be helpful, but isn't absolutely necessary. It's also available as a book.
 
 * [Advanced R](http://adv-r.had.co.nz/) from Hadley Wickham: A companion website to the book of the same name, it introduces more advanced features (and quirks) of the R language, e.g. style, exception handling, functional programming, R's C interface, etc.
 
